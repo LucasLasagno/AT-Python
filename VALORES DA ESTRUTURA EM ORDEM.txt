@@ -1,0 +1,1 @@
+[{'name': 'Questões Dissertativas e link Github com códigos.pdf', 'size': 171522}, {'name': 'Questão 10 (cliente).py', 'size': 1106}, {'name': 'Questão 10 (servidor).py', 'size': 1036}, {'name': 'Questão 08 (servidor).py', 'size': 531}, {'name': 'Questão 08.py', 'size': 518}]
